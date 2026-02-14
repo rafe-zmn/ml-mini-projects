@@ -1,5 +1,5 @@
 ## ML Mini Projects 
-Beginner-friendly machine learning mini projects documenting my journey toward AI engineering.
+A collection of beginner-friendly machine learning mini projects built using **Python** and **Scikit-learn**, documenting my journey toward becoming an **AI Engineer**.
 ---
 ## About This Repository
 
