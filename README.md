@@ -2,7 +2,7 @@
 A collection of ML mini-projects I built while learning. Covers regression, classification, clustering, and more. Documenting my journey toward becoming an **AI Engineer**.
 
 Each project includes:
-- Jupyter Notebook implementation  
+- Jupyter/Colab Notebook implementation  
 - Dataset  
 - Project-specific README with explanation and results
 
