@@ -10,9 +10,9 @@ Each project includes:
 
 | # | Project | Algorithm | Type | Status |
 |---|---------|-----------|------|--------|
-| 01 | [House Price Prediction] (supervised/regression/simple-linear-regression/01-house-price-prediction) | Simple Linear Regression | Regression | ✅ | 
-| 02 | [Student Score Prediction] | Simple Linear Regression | Regression | ✅ | (supervised/regression/simple-linear-regression/02-student-score-prediction)
-| 03 | [Salary Prediction] | Simple Linear Regression | Regression | ✅ | (supervised/regression/simple-linear-regression/03-salary-prediction)
+| 01 | [House Price Prediction]  | Simple Linear Regression | Regression | ✅ | (./supervised/regression/simple-linear-regression/01-house-price-prediction/)
+| 02 | [Student Score Prediction] | Simple Linear Regression | Regression | ✅ | (./supervised/regression/simple-linear-regression/02-student-score-prediction/)
+| 03 | [Salary Prediction] | Simple Linear Regression | Regression | ✅ | (./supervised/regression/simple-linear-regression/03-salary-prediction/)
 
 ---
 ## Current Focus
