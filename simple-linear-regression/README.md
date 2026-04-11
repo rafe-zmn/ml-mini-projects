@@ -1,1 +1,1 @@
-Simple Linear Regression project files
+Simple Linear Regression project files.
