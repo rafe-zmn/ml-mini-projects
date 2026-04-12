@@ -1,6 +1,5 @@
 ## ML Mini Projects 
-A collection of ML mini-projects I built while learning. Covers regression, classification, clustering, and more. Documenting my journey toward becoming an **AI Engineer**.
-
+A collection of ML mini-projects I built while learning. Covers regression, classification, clustering, and more.
 Each project includes:
 - Jupyter/Colab Notebook implementation  
 - Dataset  
