@@ -13,6 +13,7 @@ Each project includes:
 | 02 | [Student Score Prediction](./supervised/regression/simple-linear-regression/02-student-score-prediction/) | Simple Linear Regression | ✅ | 
 | 03 | [Salary Prediction](./supervised/regression/simple-linear-regression/03-salary-prediction/)| Simple Linear Regression | ✅ | 
 | 04 | [Hired Candidate Salary Prediction](./supervised/regression/multiple-linear-regression/01-hired-candidate-salary-prediction/)| Multiple Linear Regression | ✅ |
+| 05 | [Used Car Price Prediction](./supervised/regression/multiple-linear-regression/02-used-car-price-prediction)| Multiple Linear Regression | ✅ |
 
 ## Current Focus
 
